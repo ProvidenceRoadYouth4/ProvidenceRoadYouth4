@@ -1,16 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "Providence Road",
+  "projectType": "general",
+  "projectName": "Providence Road",
+  "projectDescription": "Providence Road is a Baton Rouge nonprofit that guides, nurtures, and strengthens the hearts and minds of at-risk youth through mentorship, community service, character development, and trauma-informed programming.",
   "theme": "almond",
-  "colors": {
-    "primary": "#e61919",
-    "light": "#fcf4f4"
-  },
-  "favicon": "https://icons.duckduckgo.com/ip3/providence-road.org.ico",
-  "logo": {
-    "light": "https://media.brand.dev/98e73b9e-8bd1-43cd-93fc-1788c8df05bc.png",
-    "dark": "https://media.brand.dev/98e73b9e-8bd1-43cd-93fc-1788c8df05bc.png"
-  },
+  "primaryColor": "#e61919",
+  "lightColor": "#fcf4f4",
+  "darkColor": null,
   "navigation": {
     "tabs": [
       {
@@ -98,5 +93,24 @@
         ]
       }
     ]
-  }
+  },
+  "keyFeatures": [
+    "Five-stage Cultivation Model (Engage → Connect → Practice → Empower → Greatness)",
+    "Big Steps™ peer-affirmation practice for grades 4–12 using the NVITES Arc™",
+    "Chasing Understanding® structured reading and metacognition practice for grades 6–12",
+    "Weekly community service projects (70+ tons of trash removed from North Baton Rouge)",
+    "Trauma-informed mentorship and relationship building for youth ages 10–16",
+    "Adventure-based and out-of-town service trips to expand youth horizons",
+    "Book club and academic enrichment programming",
+    "Partnership with community organizations and institutions"
+  ],
+  "publicApiSurface": [
+    "Youth registration form (providence-road.org/register)",
+    "Donation portal — one-time and monthly giving (providence-road.org/donate)",
+    "Contact/inquiry form (providence-road.org/new-page)",
+    "Email: providenceroad.jtf@gmail.com",
+    "Stories From The Road email newsletter subscription",
+    "Big Steps™ FAQ PDF (free, school-compatible program)",
+    "Chasing Understanding® FAQ PDF and free starter kit"
+  ]
 }
