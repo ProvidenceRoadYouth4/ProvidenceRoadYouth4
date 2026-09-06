@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Providence Road",
-  "theme": "almond",
+  "theme": "luma",
   "colors": {
     "primary": "#3a19e6",
-    "light": "#fcf4f4",
+    "light": "#000000",
     "dark": "#000000"
   },
   "favicon": "https://icons.duckduckgo.com/ip3/providence-road.org.ico",
